@@ -1,1 +1,3 @@
 # bluebro
+
+I started writing a series of scripts to query signal stats from my cable modem. I had experienced a lot of connectivity errors and wanted a way to capture data points to better understand the problem. Ultimately it ended up being a bad cable further upstream and my modem was also replaced. I won't be continuing this anymore, but wanted to have it archived somewhere for potential future use.
